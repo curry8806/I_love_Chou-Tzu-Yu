@@ -7,25 +7,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Home</title>
 </head>
-<<<<<<< HEAD
+
 <body>
 <h3>Home</h3>
 
 <h3><a href="<c:url value="/servlet1.view" />">Servlet11111</a></h3>
-=======
-<body>
 
-
-
-<h3>Home2</h3>
->>>>>>> branch 'master' of https://github.com/EEIT107Team05/repository
-
-<<<<<<< HEAD
-=======
-
-
-
-
->>>>>>> branch 'master' of https://github.com/EEIT107Team05/repository
 </body>
 </html>
