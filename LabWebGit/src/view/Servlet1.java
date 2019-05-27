@@ -21,10 +21,9 @@ public class Servlet1 extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-<<<<<<< HEAD
+
 		this.doGet(request, response);
-=======
-		this.doGet(request, response);
->>>>>>> branch 'master' of https://github.com/EEIT107Team05/repository
+
+
 	}
 }

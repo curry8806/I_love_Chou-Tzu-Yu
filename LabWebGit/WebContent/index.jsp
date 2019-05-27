@@ -9,9 +9,13 @@
 </head>
 <body>
 
+<<<<<<< HEAD
 <h3>Home</h3>
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+<h3>Home00</h3>
+>>>>>>> branch 'master' of https://github.com/EEIT107Team05/repository
 
 =======
 123
