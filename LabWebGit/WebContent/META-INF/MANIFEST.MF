@@ -1,10 +1,7 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
-<<<<<<< HEAD
-Class-Path: 
 =======
-<<<<<<< HEAD
-Class-Path: 
-=======
->>>>>>> branch 'master' of https://github.com/EEIT107Team05/repository
->>>>>>> branch 'master' of https://github.com/EEIT107Team05/repository
+Manifest-Version: 1.0
 
+
+>>>>>>> branch 'master' of https://github.com/EEIT107Team05/repository
