@@ -8,7 +8,9 @@
 <title>Home</title>
 </head>
 <body>
+
 <h3>Home00</h3>
+
 <h3><a href="<c:url value="/servlet1.view" />">Servlet1</a></h3>
 </body>
 </html>
