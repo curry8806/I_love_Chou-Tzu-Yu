@@ -10,7 +10,12 @@
 <body>
 
 <h3>Home</h3>
+<<<<<<< HEAD
 
+=======
+123
+456
+>>>>>>> branch 'master' of https://github.com/EEIT107Team05/repository
 <h3><a href="<c:url value="/servlet1.view" />">Servlet1</a></h3>
 
 
